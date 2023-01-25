@@ -11,7 +11,16 @@
 Seems you've found my profile. Nothing crazy to see here. But since you *are* here...
 - Aviation Enthusiast
 - Gamer
-- Occasional
+
+Long standing member of the [FlyByWire Simulations](https://flybywiresim.com/) organization working on the [A32NX](https://github.com/flybywiresim/a32nx/) for Microsoft Flight Simulator. 
+I assist with support and moderation on our Discord, help manage our marketing, and maintain our end-user documentation!
+
+
+
+### Things I'm Learning
+- React
+- TypeScript
+
 
 | **Projects**                                           | **Closed PRs**                                                                                                                             | **Lines**                                                                                          |
 |--------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
