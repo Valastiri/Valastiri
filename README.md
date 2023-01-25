@@ -28,10 +28,12 @@ industry practices.
 </details>
 
 <details open>
-    <summary><h3>Contributions to FlyByWire Simulations</h3></summary>
+    <summary><h3>FlyByWire Simulations</h3></summary>
 
-Long standing member of the [FlyByWire Simulations](https://flybywiresim.com/) organization creating open source and free high fidelity aircraft add-ons for Microsoft Flight Simulator best known 
-for our A32NX add-on. I moderate and provide support on our Discord, help manage our marketing and blogs, and maintain our end-user documentation!
+Long-standing member of the [FlyByWire Simulations](https://flybywiresim.com/) organization developing open source projects to create free high fidelity aircraft add-ons for Microsoft Flight 
+Simulator. We are known for the Airbus A320neo add-on project "A32NX" featuring detailed system depth and functionality. 
+
+I moderate and provide support on our Discord, help manage our marketing and blogs, and maintain our end-user documentation using [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)!
 
 - FlyByWire Simulations on GitHub - <kbd>[See More](https://github.com/flybywiresim)</kbd>
 - FlyByWire Simulations Website - <kbd>[Download Our Products](https://flybywiresim.com)</kbd>
