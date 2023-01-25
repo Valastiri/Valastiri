@@ -9,15 +9,20 @@
 ## Heyo :wave:
 
 Seems you've found my profile. Nothing crazy to see here. But since you *are* here...
-- Aviation Enthusiast
+
+Experienced web developer adept in all stages of advanced web deployment and development. Effectively manages marketing projects from conception to completion utilizing automation and best 
+industry practices.
+- Aviation enthusiast
 - Gamer
+- Believes french pressed coffee is the superior choice of brewing
 
-Long standing member of the [FlyByWire Simulations](https://flybywiresim.com/) organization working on the [A32NX](https://github.com/flybywiresim/a32nx/) for Microsoft Flight Simulator. 
-I assist with support and moderation on our Discord, help manage our marketing, and maintain our end-user documentation!
+Long standing member of the [FlyByWire Simulations](https://flybywiresim.com/) organization creating open source and free high fidelity aircraft add-ons for Microsoft Flight Simulator best known 
+for our A32NX add-on. I moderate and provide support on our Discord, help manage our marketing and blogs, and maintain our end-user documentation!
 
+- A32NX GitHub repository - [here](https://github.com/flybywiresim/a32nx/)
+- FlyByWire Simulations Discord - [Join Us](https://discord.gg/flybywire)
 
-
-### Things I'm Learning
+### Things I'm Learning 🌱
 - React
 - TypeScript
 
