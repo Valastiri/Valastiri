@@ -1,8 +1,12 @@
-<h1 align="center"> Alex R. (Valastiri)</h1>
+<div align="center">
 
-<p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Manrope&pause=1000&color=00E0FE&center=true&vCenter=true&width=500&lines=Web+Development+-+Marketing+-+Gaming;Documentation+maintainer+at+FlyByWire+Simulations;Drinks+excessive+amounts+of+coffee" alt="Typing SVG" /></a>
+<img max-width="600" src="assets/github-profile-banner.png"/>
+<p>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?
+font=Manrope&weight=600&size=25&pause=1000&color=00E0FE&center=true&vCenter=true&width=800&lines=Web+Development+-+Marketing+-+Graphic+Design;Documentation+maintainer+at+FlyByWire+Simulations;
+Drinks+excessive+amounts+of+coffee" alt="Typing SVG" /></a>
 </p>
+</div>
 
 ---
 
@@ -21,7 +25,7 @@ industry practices.
 </details>
 
 <details open>
-    <summary><h3>Working with FBW</h3></summary>
+    <summary><h3>Contributions to FlyByWire Simulations</h3></summary>
 Long standing member of the [FlyByWire Simulations](https://flybywiresim.com/) organization creating open source and free high fidelity aircraft add-ons for Microsoft Flight Simulator best known 
 for our A32NX add-on. I moderate and provide support on our Discord, help manage our marketing and blogs, and maintain our end-user documentation!
 
@@ -45,6 +49,9 @@ for our A32NX add-on. I moderate and provide support on our Discord, help manage
 
 
 ![profile contributions graph](profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+<sub>Photo in banner by <a href="https://unsplash.com/@synkevych?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Roman Synkevych 🇺🇦</a> on <a href="https://unsplash.com/photos/vXInUOv1n84?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></sub>
 
 
 <!--
