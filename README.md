@@ -20,7 +20,8 @@ industry practices.
 - Believes french pressed coffee is the superior choice of brewing
 </details>
 
-
+<details open>
+    <summary><h3>Working with FBW</h3></summary>
 Long standing member of the [FlyByWire Simulations](https://flybywiresim.com/) organization creating open source and free high fidelity aircraft add-ons for Microsoft Flight Simulator best known 
 for our A32NX add-on. I moderate and provide support on our Discord, help manage our marketing and blogs, and maintain our end-user documentation!
 
@@ -28,11 +29,14 @@ for our A32NX add-on. I moderate and provide support on our Discord, help manage
 - FlyByWire Simulations Website - <kbd>[Download Our Products](https://flybywiresim.com)</kbd>
 - A32NX GitHub repository - <kbd>[Contribute](https://github.com/flybywiresim/a32nx/)</kbd>
 - FlyByWire Simulations Discord - <kbd>[Join Us](https://discord.gg/flybywire)</kbd>
+</details>
 
-### Things I'm Learning 🌱
+<details>
+    <summary><h3>Things I'm Learning 🌱</h3></summary>
+
 - React
 - TypeScript
-
+</details>
 
 | **Projects**                                           | **Closed PRs**                                                                                                                             | **Lines**                                                                                          |
 |--------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
