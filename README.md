@@ -12,25 +12,30 @@
 
 Seems you've found my profile. Nothing crazy to see here. But since you *are* here...
 
+| **Primary Projects**                                   | **Closed PRs**                                                                                                                             | **Lines**                                                                                          |
+|--------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| [FlyByWire Docs](https://github.com/flybywiresim/docs) | ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Valastiri/docs?color=green&logo=github&style=for-the-badge)  | ![Lines of code](https://img.shields.io/tokei/lines/github.com/Valastiri/docs?style=for-the-badge) |
+
 <details open>
     <summary><h3>About Me</h3></summary>
-Experienced web developer adept in all stages of advanced web deployment and development. Effectively manages marketing projects from conception to completion utilizing automation and best
-industry practices.
-
-- Aviation enthusiast
-- Gamer
-- Believes french pressed coffee is the superior choice of brewing
+    
+    Experienced web developer adept in all stages of advanced web deployment and development. Effectively manages marketing projects from conception to completion utilizing automation and best
+    industry practices.
+    
+    - Aviation enthusiast
+    - Gamer
+    - Believes french pressed coffee is the superior choice of brewing
 </details>
 
 <details open>
     <summary><h3>Contributions to FlyByWire Simulations</h3></summary>
-Long standing member of the [FlyByWire Simulations](https://flybywiresim.com/) organization creating open source and free high fidelity aircraft add-ons for Microsoft Flight Simulator best known 
-for our A32NX add-on. I moderate and provide support on our Discord, help manage our marketing and blogs, and maintain our end-user documentation!
+    Long standing member of the [FlyByWire Simulations](https://flybywiresim.com/) organization creating open source and free high fidelity aircraft add-ons for Microsoft Flight Simulator best known 
+    for our A32NX add-on. I moderate and provide support on our Discord, help manage our marketing and blogs, and maintain our end-user documentation!
 
-- FlyByWire Simulations on GitHub - <kbd>[See More](https://github.com/flybywiresim)</kbd>
-- FlyByWire Simulations Website - <kbd>[Download Our Products](https://flybywiresim.com)</kbd>
-- A32NX GitHub repository - <kbd>[Contribute](https://github.com/flybywiresim/a32nx/)</kbd>
-- FlyByWire Simulations Discord - <kbd>[Join Us](https://discord.gg/flybywire)</kbd>
+    - FlyByWire Simulations on GitHub - <kbd>[See More](https://github.com/flybywiresim)</kbd>
+    - FlyByWire Simulations Website - <kbd>[Download Our Products](https://flybywiresim.com)</kbd>
+    - A32NX GitHub repository - <kbd>[Contribute](https://github.com/flybywiresim/a32nx/)</kbd>
+    - FlyByWire Simulations Discord - <kbd>[Join Us](https://discord.gg/flybywire)</kbd>
 </details>
 
 <details>
@@ -39,10 +44,6 @@ for our A32NX add-on. I moderate and provide support on our Discord, help manage
 - React
 - TypeScript
 </details>
-
-| **Projects**                                           | **Closed PRs**                                                                                                                             | **Lines**                                                                                          |
-|--------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| [FlyByWire Docs](https://github.com/flybywiresim/docs) | ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Valastiri/docs?color=green&logo=github&style=for-the-badge)  | ![Lines of code](https://img.shields.io/tokei/lines/github.com/Valastiri/docs?style=for-the-badge) |
 
 
 
