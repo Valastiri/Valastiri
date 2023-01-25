@@ -2,9 +2,7 @@
 
 <img max-width="600" src="assets/github-profile-banner.png"/>
 <p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?
-font=Manrope&weight=600&size=25&pause=1000&color=00E0FE&center=true&vCenter=true&width=800&lines=Web+Development+-+Marketing+-+Graphic+Design;Documentation+maintainer+at+FlyByWire+Simulations;
-Drinks+excessive+amounts+of+coffee" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=600&size=25&pause=1000&color=00E0FE&center=true&vCenter=true&width=800&lines=Web+Development+-+Marketing+-+Graphic+Design;Documentation+maintainer+at+FlyByWire+Simulations;Drinks+excessive+amounts+of+coffee" alt="Typing SVG" /></a>
 </p>
 </div>
 
@@ -18,6 +16,7 @@ Seems you've found my profile. Nothing crazy to see here. But since you *are* he
     <summary><h3>About Me</h3></summary>
 Experienced web developer adept in all stages of advanced web deployment and development. Effectively manages marketing projects from conception to completion utilizing automation and best
 industry practices.
+<br>
 
 - Aviation enthusiast
 - Gamer
@@ -28,6 +27,7 @@ industry practices.
     <summary><h3>Contributions to FlyByWire Simulations</h3></summary>
 Long standing member of the [FlyByWire Simulations](https://flybywiresim.com/) organization creating open source and free high fidelity aircraft add-ons for Microsoft Flight Simulator best known 
 for our A32NX add-on. I moderate and provide support on our Discord, help manage our marketing and blogs, and maintain our end-user documentation!
+<br>
 
 - FlyByWire Simulations on GitHub - <kbd>[See More](https://github.com/flybywiresim)</kbd>
 - FlyByWire Simulations Website - <kbd>[Download Our Products](https://flybywiresim.com)</kbd>
