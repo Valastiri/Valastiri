@@ -16,6 +16,11 @@ Seems you've found my profile. Nothing crazy to see here. But since you *are* he
 |--------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
 | [FlyByWire Docs](https://github.com/flybywiresim/docs) | ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Valastiri/docs?color=green&logo=github&style=for-the-badge)  | ![Lines of code](https://img.shields.io/tokei/lines/github.com/Valastiri/docs?style=for-the-badge) |
 
+## Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <details open>
     <summary><h3>About Me</h3></summary>
     
