@@ -55,27 +55,15 @@ I moderate and provide support on our Discord, help manage our marketing and blo
 ![profile contributions graph](profile-3d-contrib/profile-night-rainbow.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2036%20mins-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 395.1 kB Used in GitHub's Storage 
- > 
-> 🏆 70 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 13 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                193 commits         █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-🌆 Daytime                237 commits         ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-🌃 Evening                274 commits         ███████░░░░░░░░░░░░░░░░░░   29.40 % 
-🌙 Night                  228 commits         ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
+🌞 Morning                193 commits         █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+🌆 Daytime                237 commits         ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
+🌃 Evening                274 commits         ███████░░░░░░░░░░░░░░░░░░   29.37 % 
+🌙 Night                  229 commits         ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
 ```
 
 
@@ -109,7 +97,7 @@ Batchfile                1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 25/02/2023 21:24:13 UTC
+ Last Updated on 26/02/2023 12:36:31 UTC
 <!--END_SECTION:waka-->
 
 ---
