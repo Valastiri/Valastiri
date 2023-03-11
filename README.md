@@ -55,7 +55,7 @@ I moderate and provide support on our Discord, help manage our marketing and blo
 ![profile contributions graph](profile-3d-contrib/profile-night-rainbow.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2043%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -71,16 +71,16 @@ I moderate and provide support on our Discord, help manage our marketing and blo
 
 ```text
 💬 Programming Languages: 
-requirements.txt         22 mins             ████████████░░░░░░░░░░░░░   47.76 % 
-Markdown                 18 mins             █████████░░░░░░░░░░░░░░░░   37.95 % 
-Text                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+requirements.txt         22 mins             ███████████████████░░░░░░   77.83 % 
+Text                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+YAML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🔥 Editors: 
-IntelliJ                 48 mins             █████████████████████████   100.00 % 
+IntelliJ                 29 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-docs                     48 mins             █████████████████████████   100.00 % 
+docs                     29 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -94,7 +94,7 @@ Batchfile                1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 10/03/2023 12:39:02 UTC
+ Last Updated on 11/03/2023 12:33:55 UTC
 <!--END_SECTION:waka-->
 
 ---
