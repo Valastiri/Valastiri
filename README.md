@@ -55,7 +55,7 @@ I moderate and provide support on our Discord, help manage our marketing and blo
 ![profile contributions graph](profile-3d-contrib/profile-night-rainbow.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2036%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -71,14 +71,11 @@ I moderate and provide support on our Discord, help manage our marketing and blo
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 7 mins         ████████████████████░░░░░   80.47 % 
-HTML                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-SVG                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Markdown                 1 hr 4 mins         █████████████████████████   99.98 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-IntelliJ                 1 hr 24 mins        █████████████████████████   100.00 % 
+IntelliJ                 1 hr 4 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -94,7 +91,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/05/2023 12:51:11 UTC
+ Last Updated on 04/05/2023 12:51:18 UTC
 <!--END_SECTION:waka-->
 
 ---
